@@ -1,0 +1,11 @@
+h1 {
+  color: green;
+  text-align: center;
+  font-size:100px;
+}
+
+p {
+  margin: 20px;
+  font-size:70px;
+  padding:10px;
+}
